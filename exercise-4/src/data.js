@@ -22,7 +22,7 @@ export const AVAILABLE_PLACES = [
     id: "p1",
     title: "Forest Waterfall",
     image: {
-      src: forestWaterfallImg,
+      src: download,
       alt: "A tranquil forest with a cascading waterfall amidst greenery.",
     },
   },
@@ -30,7 +30,7 @@ export const AVAILABLE_PLACES = [
     id: "p2",
     title: "Sahara Desert Dunes",
     image: {
-      src: desertDunes,
+      src: download,
       alt: "Golden dunes stretching to the horizon in the Sahara Desert.",
     },
   },
@@ -38,7 +38,7 @@ export const AVAILABLE_PLACES = [
     id: "p3",
     title: "Himalayan Peaks",
     image: {
-      src: majesticMountains,
+      src: download,
       alt: "The sun setting behind snow-capped peaks of majestic mountains.",
     },
   },
@@ -46,7 +46,7 @@ export const AVAILABLE_PLACES = [
     id: "p4",
     title: "Caribbean Beach",
     image: {
-      src: caribbeanBeachImg,
+      src: download,
       alt: "Pristine white sand and turquoise waters of a Caribbean beach.",
     },
   },
@@ -54,7 +54,7 @@ export const AVAILABLE_PLACES = [
     id: "p5",
     title: "Ancient Grecian Ruins",
     image: {
-      src: ruinsImg,
+      src: download,
       alt: "Historic ruins standing tall against the backdrop of the Grecian sky.",
     },
   },
@@ -62,7 +62,7 @@ export const AVAILABLE_PLACES = [
     id: "p6",
     title: "Amazon Rainforest Canopy",
     image: {
-      src: rainforestImg,
+      src: download,
       alt: "Lush canopy of a rainforest, teeming with life.",
     },
   },
@@ -70,7 +70,7 @@ export const AVAILABLE_PLACES = [
     id: "p7",
     title: "Northern Lights",
     image: {
-      src: northernLightsImg,
+      src: download,
       alt: "Dazzling display of the Northern Lights in a starry sky.",
     },
   },
@@ -78,7 +78,7 @@ export const AVAILABLE_PLACES = [
     id: "p8",
     title: "Japanese Temple",
     image: {
-      src: japaneseTempleImg,
+      src: download,
       alt: "Ancient Japanese temple surrounded by autumn foliage.",
     },
   },
@@ -86,7 +86,7 @@ export const AVAILABLE_PLACES = [
     id: "p9",
     title: "Great Barrier Reef",
     image: {
-      src: greatBarrierReefImg,
+      src: download,
       alt: "Vibrant coral formations of the Great Barrier Reef underwater.",
     },
   },
@@ -94,7 +94,7 @@ export const AVAILABLE_PLACES = [
     id: "p10",
     title: "Parisian Streets",
     image: {
-      src: parisianStreetsImg,
+      src: download,
       alt: "Charming streets of Paris with historic buildings and cafes.",
     },
   },
@@ -102,7 +102,7 @@ export const AVAILABLE_PLACES = [
     id: "p11",
     title: "Grand Canyon",
     image: {
-      src: grandCanyonImg,
+      src: download,
       alt: "Expansive view of the deep gorges and ridges of the Grand Canyon.",
     },
   },
