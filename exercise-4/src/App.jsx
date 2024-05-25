@@ -11,11 +11,10 @@ function App() {
       <main>
         <section className="places-category">
           <ul className="places">
-          {AVAILABLE_PLACES.map((place) => (
+          {AVAILABLE_PLACES.map((place,index) => (
               <Place
-                key={place.id}
-                name={place.title}
-                imageUrl={place.image}
+                key={index}
+                place={place}
                
               />
             ))}
